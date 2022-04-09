@@ -3,6 +3,12 @@
 
 Console.Clear();
 
+
+
+
+
+
+
 int Promt(string message)
 {
     Console.Write(message);
